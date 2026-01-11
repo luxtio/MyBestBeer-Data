@@ -1,0 +1,60 @@
+{
+    "version": "1.0.3",
+    "lastUpdated": "2026-01-11",
+    "resources": {
+        "beers.en.json": {
+            "version": "1.0.3",
+            "size": 2524000,
+            "url": "https://cdn.jsdelivr.net/gh/luxtio/MyBestBeer@v1.0.3/db/beers.en.json",
+            "sha256": "placeholder-will-be-generated",
+            "lastUpdated": "2026-01-11"
+        },
+        "beers.it.json": {
+            "version": "1.0.3",
+            "size": 2687000,
+            "url": "https://cdn.jsdelivr.net/gh/luxtio/MyBestBeer@v1.0.3/db/beers.it.json",
+            "sha256": "placeholder-will-be-generated",
+            "lastUpdated": "2026-01-11"
+        },
+        "suggestions-styles.en.json": {
+            "version": "1.0.3",
+            "size": 500,
+            "url": "https://cdn.jsdelivr.net/gh/luxtio/MyBestBeer@v1.0.3/db/suggestions/suggestions-styles.en.json"
+        },
+        "suggestions-styles.it.json": {
+            "version": "1.0.3",
+            "size": 520,
+            "url": "https://cdn.jsdelivr.net/gh/luxtio/MyBestBeer@v1.0.3/db/suggestions/suggestions-styles.it.json"
+        },
+        "suggestions-food.en.json": {
+            "version": "1.0.3",
+            "size": 350,
+            "url": "https://cdn.jsdelivr.net/gh/luxtio/MyBestBeer@v1.0.3/db/suggestions/suggestions-food.en.json"
+        },
+        "suggestions-food.it.json": {
+            "version": "1.0.3",
+            "size": 370,
+            "url": "https://cdn.jsdelivr.net/gh/luxtio/MyBestBeer@v1.0.3/db/suggestions/suggestions-food.it.json"
+        },
+        "suggestions-sensations.en.json": {
+            "version": "1.0.3",
+            "size": 450,
+            "url": "https://cdn.jsdelivr.net/gh/luxtio/MyBestBeer@v1.0.3/db/suggestions/suggestions-sensations.en.json"
+        },
+        "suggestions-sensations.it.json": {
+            "version": "1.0.3",
+            "size": 480,
+            "url": "https://cdn.jsdelivr.net/gh/luxtio/MyBestBeer@v1.0.3/db/suggestions/suggestions-sensations.it.json"
+        },
+        "suggestions-context.en.json": {
+            "version": "1.0.3",
+            "size": 420,
+            "url": "https://cdn.jsdelivr.net/gh/luxtio/MyBestBeer@v1.0.3/db/suggestions/suggestions-context.en.json"
+        },
+        "suggestions-context.it.json": {
+            "version": "1.0.3",
+            "size": 450,
+            "url": "https://cdn.jsdelivr.net/gh/luxtio/MyBestBeer@v1.0.3/db/suggestions/suggestions-context.it.json"
+        }
+    }
+}
