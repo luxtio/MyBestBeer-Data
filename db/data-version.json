@@ -1,0 +1,26 @@
+{
+    "version": "1.3.0",
+    "updatedAt": "2026-03-01T18:00:00Z",
+    "resources": {
+        "beers.it.json": {
+            "version": "1.3.0",
+            "updatedAt": "2026-03-01T18:00:00Z",
+            "description": "Italian beer database with IBU"
+        },
+        "beers.en.json": {
+            "version": "1.3.0",
+            "updatedAt": "2026-03-01T18:00:00Z",
+            "description": "English beer database with IBU"
+        },
+        "beer-ids.json": {
+            "version": "1.3.0",
+            "updatedAt": "2026-03-01T18:00:00Z",
+            "description": "Beer ID list for embedding index"
+        },
+        "beer-vectors.bin": {
+            "version": "1.3.0",
+            "updatedAt": "2026-03-01T18:00:00Z",
+            "description": "Binary embedding vectors (Float32, 1536-dim)"
+        }
+    }
+}
